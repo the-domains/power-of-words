@@ -1,0 +1,28 @@
+name: Power of Words
+favicon: null
+layout_spectrum: 0.8588924803771079
+typography_spectrum: 0.49322024057619274
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+  brandStrength: 0.6628643427975476
+  lightness: 0.5245003409218043
+  saturation: 0.1971078929491341
+  rhythmicContrast: 0.7139449417591095
+purpose: []
