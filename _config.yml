@@ -1,6 +1,6 @@
 name: Power of Words
 favicon: null
-layout_spectrum: 0.8588924803771079
+layout_spectrum: 0.88106
 typography_spectrum: 0.49322024057619274
 cta:
   domain: null
@@ -21,7 +21,7 @@ color:
     - '#BCAB47'
     - '#6B574B'
     - '#160600'
-  brandStrength: 0.6628643427975476
+  brandStrength: 0.375
   lightness: 0.5245003409218043
   saturation: 0.1971078929491341
   rhythmicContrast: 0.7139449417591095
